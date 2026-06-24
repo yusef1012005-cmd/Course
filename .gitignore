@@ -1,0 +1,5 @@
+*.log
+!party.log
+node_packs/
+
+
